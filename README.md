@@ -4,7 +4,7 @@
 # Hi I'm Chris 👋
 I'm a Software Engineer living in Berlin. I am passionate about building cool applications and digging deeper into different topics. 
 - 🛤️ Currently working on HexFinder
-- 🤓 Learning about Docker, Git and architecture
+- 🤓 Learning about Docker, Git, Webpack and architecture
 - 🥷 Becoming a Bash ninja 
 
 ## Personal Stuff
