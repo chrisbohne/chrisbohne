@@ -4,7 +4,7 @@
 # Hi I'm Chris 👋
 I'm a Full Stack Developer living in Berlin.
 
-- :keyboard: Currently working on HexFinder
+- :keyboard: Currently working on HexenWerk
 - :gear: love to use `.js`, `.ts`, `.jsx`, `.tsx`, `.html`, `.css`, `.svg`
 - :bulb: Learning about Docker, Webpack, advanced CSS and other stuff 
 
