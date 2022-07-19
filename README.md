@@ -2,15 +2,12 @@
 
 
 # Hi I'm Chris 👋
-I'm a Software Engineer living in Berlin. I am passionate about building cool applications and digging deeper into different topics. 
-- 🛤️ Currently working on HexFinder
-- 🤓 Learning about Docker, Git, Webpack and architecture
-- 🥷 Becoming a Bash ninja 
+I'm a Full Stack Developer living in Berlin.
 
-## Personal Stuff
-- 🍏 Plant based energy 
-- 💪 Keep improving in calisthenics
-- 🐶 Playing with my dogs
-- 🪙 Learning about Crypto and Blockchain
+- :keyboard: Currently working on HexFinder
+- :gear: love to use `.js`, `.ts,` `.jsx`, `.tsx`, `.html`, `.css`, `.svg`
+- :bulb: Learning about Docker, Webpack, advanced CSS and other stuff 
+
+
 
 
